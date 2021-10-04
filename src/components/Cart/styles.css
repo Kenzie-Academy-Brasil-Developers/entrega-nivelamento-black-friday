@@ -1,0 +1,16 @@
+section {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.cards {
+	width: 210px;
+	margin-left: 15px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	border: 1px solid gold;
+	background-color: red;
+}

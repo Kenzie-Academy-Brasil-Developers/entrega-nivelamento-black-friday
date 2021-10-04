@@ -1,0 +1,15 @@
+.product {
+	width: 210px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	border: 1px solid red;
+	background-color: #b98a08;
+	color: white;
+}
+
+.cartAdd {
+	background-color: red;
+	color: aliceblue;
+}
